@@ -1,0 +1,3688 @@
+('E:\\MOOCs\\My Projects\\ReportINC\\build\\ReportINC_GUI\\PYZ-00.pyz',
+ [('tempfile', 'C:\\Program Files\\Python35\\lib\\tempfile.py', 'PYMODULE'),
+  ('_dummy_thread',
+   'C:\\Program Files\\Python35\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('random', 'C:\\Program Files\\Python35\\lib\\random.py', 'PYMODULE'),
+  ('hashlib', 'C:\\Program Files\\Python35\\lib\\hashlib.py', 'PYMODULE'),
+  ('logging',
+   'C:\\Program Files\\Python35\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('threading', 'C:\\Program Files\\Python35\\lib\\threading.py', 'PYMODULE'),
+  ('_threading_local',
+   'C:\\Program Files\\Python35\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('contextlib', 'C:\\Program Files\\Python35\\lib\\contextlib.py', 'PYMODULE'),
+  ('string', 'C:\\Program Files\\Python35\\lib\\string.py', 'PYMODULE'),
+  ('shutil', 'C:\\Program Files\\Python35\\lib\\shutil.py', 'PYMODULE'),
+  ('zipfile', 'C:\\Program Files\\Python35\\lib\\zipfile.py', 'PYMODULE'),
+  ('textwrap', 'C:\\Program Files\\Python35\\lib\\textwrap.py', 'PYMODULE'),
+  ('py_compile', 'C:\\Program Files\\Python35\\lib\\py_compile.py', 'PYMODULE'),
+  ('ntpath', 'C:\\Program Files\\Python35\\lib\\ntpath.py', 'PYMODULE'),
+  ('genericpath',
+   'C:\\Program Files\\Python35\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Program Files\\Python35\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Program Files\\Python35\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Program Files\\Python35\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Program Files\\Python35\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Program Files\\Python35\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('tokenize', 'C:\\Program Files\\Python35\\lib\\tokenize.py', 'PYMODULE'),
+  ('argparse', 'C:\\Program Files\\Python35\\lib\\argparse.py', 'PYMODULE'),
+  ('gettext', 'C:\\Program Files\\Python35\\lib\\gettext.py', 'PYMODULE'),
+  ('copy', 'C:\\Program Files\\Python35\\lib\\copy.py', 'PYMODULE'),
+  ('token', 'C:\\Program Files\\Python35\\lib\\token.py', 'PYMODULE'),
+  ('dummy_threading',
+   'C:\\Program Files\\Python35\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('struct', 'C:\\Program Files\\Python35\\lib\\struct.py', 'PYMODULE'),
+  ('importlib.util',
+   'C:\\Program Files\\Python35\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('lzma', 'C:\\Program Files\\Python35\\lib\\lzma.py', 'PYMODULE'),
+  ('_compression',
+   'C:\\Program Files\\Python35\\lib\\_compression.py',
+   'PYMODULE'),
+  ('bz2', 'C:\\Program Files\\Python35\\lib\\bz2.py', 'PYMODULE'),
+  ('tarfile', 'C:\\Program Files\\Python35\\lib\\tarfile.py', 'PYMODULE'),
+  ('gzip', 'C:\\Program Files\\Python35\\lib\\gzip.py', 'PYMODULE'),
+  ('fnmatch', 'C:\\Program Files\\Python35\\lib\\fnmatch.py', 'PYMODULE'),
+  ('posixpath', 'C:\\Program Files\\Python35\\lib\\posixpath.py', 'PYMODULE'),
+  ('stat', 'C:\\Program Files\\Python35\\lib\\stat.py', 'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.semaphore_tracker',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\semaphore_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('bisect', 'C:\\Program Files\\Python35\\lib\\bisect.py', 'PYMODULE'),
+  ('ctypes',
+   'C:\\Program Files\\Python35\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Program Files\\Python35\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('queue', 'C:\\Program Files\\Python35\\lib\\queue.py', 'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('selectors', 'C:\\Program Files\\Python35\\lib\\selectors.py', 'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Program Files\\Python35\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Program Files\\Python35\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Program Files\\Python35\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Program Files\\Python35\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml', 'C:\\Program Files\\Python35\\lib\\xml\\__init__.py', 'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Program Files\\Python35\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Program Files\\Python35\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Program Files\\Python35\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass', 'C:\\Program Files\\Python35\\lib\\getpass.py', 'PYMODULE'),
+  ('nturl2path', 'C:\\Program Files\\Python35\\lib\\nturl2path.py', 'PYMODULE'),
+  ('ftplib', 'C:\\Program Files\\Python35\\lib\\ftplib.py', 'PYMODULE'),
+  ('netrc', 'C:\\Program Files\\Python35\\lib\\netrc.py', 'PYMODULE'),
+  ('shlex', 'C:\\Program Files\\Python35\\lib\\shlex.py', 'PYMODULE'),
+  ('mimetypes', 'C:\\Program Files\\Python35\\lib\\mimetypes.py', 'PYMODULE'),
+  ('getopt', 'C:\\Program Files\\Python35\\lib\\getopt.py', 'PYMODULE'),
+  ('email.utils',
+   'C:\\Program Files\\Python35\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Program Files\\Python35\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Program Files\\Python35\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('quopri', 'C:\\Program Files\\Python35\\lib\\quopri.py', 'PYMODULE'),
+  ('email.errors',
+   'C:\\Program Files\\Python35\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Program Files\\Python35\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Program Files\\Python35\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Program Files\\Python35\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar', 'C:\\Program Files\\Python35\\lib\\calendar.py', 'PYMODULE'),
+  ('optparse', 'C:\\Program Files\\Python35\\lib\\optparse.py', 'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Program Files\\Python35\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http', 'C:\\Program Files\\Python35\\lib\\http\\__init__.py', 'PYMODULE'),
+  ('urllib',
+   'C:\\Program Files\\Python35\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('ssl', 'C:\\Program Files\\Python35\\lib\\ssl.py', 'PYMODULE'),
+  ('ipaddress', 'C:\\Program Files\\Python35\\lib\\ipaddress.py', 'PYMODULE'),
+  ('urllib.response',
+   'C:\\Program Files\\Python35\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Program Files\\Python35\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('email', 'C:\\Program Files\\Python35\\lib\\email\\__init__.py', 'PYMODULE'),
+  ('email.parser',
+   'C:\\Program Files\\Python35\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Program Files\\Python35\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Program Files\\Python35\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Program Files\\Python35\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Program Files\\Python35\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Program Files\\Python35\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Program Files\\Python35\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Program Files\\Python35\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Program Files\\Python35\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Program Files\\Python35\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('uu', 'C:\\Program Files\\Python35\\lib\\uu.py', 'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Program Files\\Python35\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Program Files\\Python35\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Program Files\\Python35\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Program Files\\Python35\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Program Files\\Python35\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Program Files\\Python35\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Program Files\\Python35\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Program Files\\Python35\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('datetime', 'C:\\Program Files\\Python35\\lib\\datetime.py', 'PYMODULE'),
+  ('_strptime', 'C:\\Program Files\\Python35\\lib\\_strptime.py', 'PYMODULE'),
+  ('base64', 'C:\\Program Files\\Python35\\lib\\base64.py', 'PYMODULE'),
+  ('hmac', 'C:\\Program Files\\Python35\\lib\\hmac.py', 'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('pickle', 'C:\\Program Files\\Python35\\lib\\pickle.py', 'PYMODULE'),
+  ('pprint', 'C:\\Program Files\\Python35\\lib\\pprint.py', 'PYMODULE'),
+  ('doctest', 'C:\\Program Files\\Python35\\lib\\doctest.py', 'PYMODULE'),
+  ('unittest',
+   'C:\\Program Files\\Python35\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Program Files\\Python35\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Program Files\\Python35\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Program Files\\Python35\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Program Files\\Python35\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Program Files\\Python35\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Program Files\\Python35\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Program Files\\Python35\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Program Files\\Python35\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb', 'C:\\Program Files\\Python35\\lib\\pdb.py', 'PYMODULE'),
+  ('pydoc', 'C:\\Program Files\\Python35\\lib\\pydoc.py', 'PYMODULE'),
+  ('webbrowser', 'C:\\Program Files\\Python35\\lib\\webbrowser.py', 'PYMODULE'),
+  ('http.server',
+   'C:\\Program Files\\Python35\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Program Files\\Python35\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html', 'C:\\Program Files\\Python35\\lib\\html\\__init__.py', 'PYMODULE'),
+  ('html.entities',
+   'C:\\Program Files\\Python35\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Program Files\\Python35\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Program Files\\Python35\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty', 'C:\\Program Files\\Python35\\lib\\tty.py', 'PYMODULE'),
+  ('platform', 'C:\\Program Files\\Python35\\lib\\platform.py', 'PYMODULE'),
+  ('plistlib', 'C:\\Program Files\\Python35\\lib\\plistlib.py', 'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Program Files\\Python35\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('pkgutil', 'C:\\Program Files\\Python35\\lib\\pkgutil.py', 'PYMODULE'),
+  ('glob', 'C:\\Program Files\\Python35\\lib\\glob.py', 'PYMODULE'),
+  ('code', 'C:\\Program Files\\Python35\\lib\\code.py', 'PYMODULE'),
+  ('codeop', 'C:\\Program Files\\Python35\\lib\\codeop.py', 'PYMODULE'),
+  ('dis', 'C:\\Program Files\\Python35\\lib\\dis.py', 'PYMODULE'),
+  ('opcode', 'C:\\Program Files\\Python35\\lib\\opcode.py', 'PYMODULE'),
+  ('bdb', 'C:\\Program Files\\Python35\\lib\\bdb.py', 'PYMODULE'),
+  ('cmd', 'C:\\Program Files\\Python35\\lib\\cmd.py', 'PYMODULE'),
+  ('inspect', 'C:\\Program Files\\Python35\\lib\\inspect.py', 'PYMODULE'),
+  ('imp', 'C:\\Program Files\\Python35\\lib\\imp.py', 'PYMODULE'),
+  ('ast', 'C:\\Program Files\\Python35\\lib\\ast.py', 'PYMODULE'),
+  ('difflib', 'C:\\Program Files\\Python35\\lib\\difflib.py', 'PYMODULE'),
+  ('__future__', 'C:\\Program Files\\Python35\\lib\\__future__.py', 'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Program Files\\Python35\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('socket', 'C:\\Program Files\\Python35\\lib\\socket.py', 'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('signal', 'C:\\Program Files\\Python35\\lib\\signal.py', 'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('subprocess', 'C:\\Program Files\\Python35\\lib\\subprocess.py', 'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy', 'C:\\Program Files\\Python35\\lib\\runpy.py', 'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Program Files\\Python35\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid', 'C:\\Program Files\\Python35\\lib\\uuid.py', 'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Program Files\\Python35\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Program Files\\Python35\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Program Files\\Python35\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Program Files\\Python35\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Program Files\\Python35\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('sysconfig', 'C:\\Program Files\\Python35\\lib\\sysconfig.py', 'PYMODULE'),
+  ('_osx_support',
+   'C:\\Program Files\\Python35\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Program Files\\Python35\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Program Files\\Python35\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'C:\\Program Files\\Python35\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Program Files\\Python35\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Program Files\\Python35\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Program Files\\Python35\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Program Files\\Python35\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Program Files\\Python35\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Program Files\\Python35\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'C:\\Program Files\\Python35\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'C:\\Program Files\\Python35\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Program Files\\Python35\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Program Files\\Python35\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('lib2to3.refactor',
+   'C:\\Program Files\\Python35\\lib\\lib2to3\\refactor.py',
+   'PYMODULE'),
+  ('lib2to3.btm_matcher',
+   'C:\\Program Files\\Python35\\lib\\lib2to3\\btm_matcher.py',
+   'PYMODULE'),
+  ('lib2to3.btm_utils',
+   'C:\\Program Files\\Python35\\lib\\lib2to3\\btm_utils.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.grammar',
+   'C:\\Program Files\\Python35\\lib\\lib2to3\\pgen2\\grammar.py',
+   'PYMODULE'),
+  ('lib2to3.pygram',
+   'C:\\Program Files\\Python35\\lib\\lib2to3\\pygram.py',
+   'PYMODULE'),
+  ('lib2to3.pytree',
+   'C:\\Program Files\\Python35\\lib\\lib2to3\\pytree.py',
+   'PYMODULE'),
+  ('lib2to3',
+   'C:\\Program Files\\Python35\\lib\\lib2to3\\__init__.py',
+   'PYMODULE'),
+  ('lib2to3.patcomp',
+   'C:\\Program Files\\Python35\\lib\\lib2to3\\patcomp.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.parse',
+   'C:\\Program Files\\Python35\\lib\\lib2to3\\pgen2\\parse.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.literals',
+   'C:\\Program Files\\Python35\\lib\\lib2to3\\pgen2\\literals.py',
+   'PYMODULE'),
+  ('lib2to3.fixer_util',
+   'C:\\Program Files\\Python35\\lib\\lib2to3\\fixer_util.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.token',
+   'C:\\Program Files\\Python35\\lib\\lib2to3\\pgen2\\token.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.tokenize',
+   'C:\\Program Files\\Python35\\lib\\lib2to3\\pgen2\\tokenize.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.driver',
+   'C:\\Program Files\\Python35\\lib\\lib2to3\\pgen2\\driver.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.pgen',
+   'C:\\Program Files\\Python35\\lib\\lib2to3\\pgen2\\pgen.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2',
+   'C:\\Program Files\\Python35\\lib\\lib2to3\\pgen2\\__init__.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Program Files\\Python35\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Program Files\\Python35\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('pkg_resources.py31compat',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\py31compat.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('cssselect2',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\cssselect2\\__init__.py',
+   'PYMODULE'),
+  ('cssselect2.tree',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\cssselect2\\tree.py',
+   'PYMODULE'),
+  ('cssselect2.compiler',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\cssselect2\\compiler.py',
+   'PYMODULE'),
+  ('tinycss2.nth',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\tinycss2\\nth.py',
+   'PYMODULE'),
+  ('tinycss2.parser',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\tinycss2\\parser.py',
+   'PYMODULE'),
+  ('tinycss2.tokenizer',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\tinycss2\\tokenizer.py',
+   'PYMODULE'),
+  ('tinycss2.ast',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\tinycss2\\ast.py',
+   'PYMODULE'),
+  ('tinycss2.serializer',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\tinycss2\\serializer.py',
+   'PYMODULE'),
+  ('cssselect2.parser',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\cssselect2\\parser.py',
+   'PYMODULE'),
+  ('webencodings',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\webencodings\\__init__.py',
+   'PYMODULE'),
+  ('webencodings.x_user_defined',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\webencodings\\x_user_defined.py',
+   'PYMODULE'),
+  ('webencodings.labels',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\webencodings\\labels.py',
+   'PYMODULE'),
+  ('pathlib', 'C:\\Program Files\\Python35\\lib\\pathlib.py', 'PYMODULE'),
+  ('tinycss2',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\tinycss2\\__init__.py',
+   'PYMODULE'),
+  ('tinycss2.bytes',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\tinycss2\\bytes.py',
+   'PYMODULE'),
+  ('stringprep', 'C:\\Program Files\\Python35\\lib\\stringprep.py', 'PYMODULE'),
+  ('pkg_resources.py2_warn',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\py2_warn.py',
+   'PYMODULE'),
+  ('ReportINC_base',
+   'E:\\MOOCs\\My Projects\\ReportINC\\ReportINC_base.py',
+   'PYMODULE'),
+  ('reportlab.lib.pagesizes',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\pagesizes.py',
+   'PYMODULE'),
+  ('reportlab.platypus',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\platypus\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.platypus.xpreformatted',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\platypus\\xpreformatted.py',
+   'PYMODULE'),
+  ('reportlab.lib.styles',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\styles.py',
+   'PYMODULE'),
+  ('reportlab.rl_config',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\rl_config.py',
+   'PYMODULE'),
+  ('reportlab.lib.fonts',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\fonts.py',
+   'PYMODULE'),
+  ('reportlab.lib.enums',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\enums.py',
+   'PYMODULE'),
+  ('reportlab.lib.PyFontify',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\PyFontify.py',
+   'PYMODULE'),
+  ('reportlab.platypus.doctemplate',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\platypus\\doctemplate.py',
+   'PYMODULE'),
+  ('reportlab.lib.randomtext',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\randomtext.py',
+   'PYMODULE'),
+  ('reportlab.lib.sequencer',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\sequencer.py',
+   'PYMODULE'),
+  ('reportlab.platypus.tables',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\platypus\\tables.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.pdfmetrics',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\pdfmetrics.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._glyphlist',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_glyphlist.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.pdfdoc',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\pdfdoc.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.pdfutils',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\pdfutils.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.rl_codecs',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\rl_codecs.py',
+   'PYMODULE'),
+  ('reportlab.lib.logger',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\logger.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_zapfdingbats',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_zapfdingbats.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_symbol',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_symbol.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_timesbolditalic',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_timesbolditalic.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_timesitalic',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_timesitalic.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_timesbold',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_timesbold.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_timesroman',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_timesroman.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_helveticaboldoblique',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_helveticaboldoblique.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_helveticaoblique',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_helveticaoblique.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_helveticabold',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_helveticabold.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_helvetica',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_helvetica.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_courierboldoblique',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_courierboldoblique.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_courieroblique',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_courieroblique.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_courierbold',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_courierbold.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_courier',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_courier.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_macexpert',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_macexpert.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_pdfdoc',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_pdfdoc.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_zapfdingbats',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_zapfdingbats.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_symbol',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_symbol.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_standard',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_standard.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_macroman',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_macroman.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_winansi',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_winansi.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.ttfonts',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\ttfonts.py',
+   'PYMODULE'),
+  ('reportlab.lib.abag',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\abag.py',
+   'PYMODULE'),
+  ('reportlab.lib.rl_accel',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\rl_accel.py',
+   'PYMODULE'),
+  ('reportlab.platypus.paraparser',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\platypus\\paraparser.py',
+   'PYMODULE'),
+  ('html.parser',
+   'C:\\Program Files\\Python35\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'C:\\Program Files\\Python35\\lib\\_markupbase.py',
+   'PYMODULE'),
+  ('reportlab.platypus.paragraph',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\platypus\\paragraph.py',
+   'PYMODULE'),
+  ('reportlab.lib.textsplit',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\textsplit.py',
+   'PYMODULE'),
+  ('reportlab.lib.geomutils',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\geomutils.py',
+   'PYMODULE'),
+  ('reportlab.platypus.multicol',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\platypus\\multicol.py',
+   'PYMODULE'),
+  ('reportlab.platypus.frames',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\platypus\\frames.py',
+   'PYMODULE'),
+  ('reportlab.platypus.flowables',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\platypus\\flowables.py',
+   'PYMODULE'),
+  ('reportlab',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.lib.colors',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\colors.py',
+   'PYMODULE'),
+  ('reportlab.lib',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.lib.pdfencrypt',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\pdfencrypt.py',
+   'PYMODULE'),
+  ('reportlab.lib.arciv',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\arciv.py',
+   'PYMODULE'),
+  ('svglib.svglib',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\svglib\\svglib.py',
+   'PYMODULE'),
+  ('svglib',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\svglib\\__init__.py',
+   'PYMODULE'),
+  ('svglib.utils',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\svglib\\utils.py',
+   'PYMODULE'),
+  ('lxml',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\lxml\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.graphics.shapes',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\graphics\\shapes.py',
+   'PYMODULE'),
+  ('reportlab.graphics.renderSVG',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\graphics\\renderSVG.py',
+   'PYMODULE'),
+  ('reportlab.lib.corp',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\corp.py',
+   'PYMODULE'),
+  ('reportlab.lib.formatters',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\formatters.py',
+   'PYMODULE'),
+  ('reportlab.graphics.testshapes',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\graphics\\testshapes.py',
+   'PYMODULE'),
+  ('reportlab.graphics.widgets.signsandsymbols',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\graphics\\widgets\\signsandsymbols.py',
+   'PYMODULE'),
+  ('reportlab.graphics.widgets',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\graphics\\widgets\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'C:\\Program Files\\Python35\\lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Program Files\\Python35\\lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Program Files\\Python35\\lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Program Files\\Python35\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Program Files\\Python35\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Program Files\\Python35\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Program Files\\Python35\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Program Files\\Python35\\lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('reportlab.graphics.renderbase',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\graphics\\renderbase.py',
+   'PYMODULE'),
+  ('reportlab.graphics.renderPS',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\graphics\\renderPS.py',
+   'PYMODULE'),
+  ('reportlab.graphics.renderPM',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\graphics\\renderPM.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys', 'C:\\Program Files\\Python35\\lib\\colorsys.py', 'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'e:\\moocs\\my projects\\reportinc\\venv\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('reportlab.graphics.widgetbase',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\graphics\\widgetbase.py',
+   'PYMODULE'),
+  ('reportlab.graphics.charts.piecharts',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\graphics\\charts\\piecharts.py',
+   'PYMODULE'),
+  ('reportlab.graphics.charts',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\graphics\\charts\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.graphics.charts.utils3d',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\graphics\\charts\\utils3d.py',
+   'PYMODULE'),
+  ('reportlab.graphics.charts.textlabels',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\graphics\\charts\\textlabels.py',
+   'PYMODULE'),
+  ('reportlab.graphics.charts.utils',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\graphics\\charts\\utils.py',
+   'PYMODULE'),
+  ('reportlab.graphics.charts.legends',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\graphics\\charts\\legends.py',
+   'PYMODULE'),
+  ('reportlab.graphics.charts.areas',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\graphics\\charts\\areas.py',
+   'PYMODULE'),
+  ('reportlab.graphics.widgets.markers',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\graphics\\widgets\\markers.py',
+   'PYMODULE'),
+  ('reportlab.graphics.widgets.flags',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\graphics\\widgets\\flags.py',
+   'PYMODULE'),
+  ('reportlab.lib.attrmap',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\attrmap.py',
+   'PYMODULE'),
+  ('reportlab.lib.validators',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\validators.py',
+   'PYMODULE'),
+  ('reportlab.lib.normalDate',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\normalDate.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen.pdfimages',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfgen\\pdfimages.py',
+   'PYMODULE'),
+  ('reportlab.lib.boxstuff',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\boxstuff.py',
+   'PYMODULE'),
+  ('reportlab.graphics.renderPDF',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\graphics\\renderPDF.py',
+   'PYMODULE'),
+  ('reportlab.graphics',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\graphics\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.lib.utils',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\utils.py',
+   'PYMODULE'),
+  ('reportlab.rl_settings',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\rl_settings.py',
+   'PYMODULE'),
+  ('reportlab.lib.rl_safe_eval',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\rl_safe_eval.py',
+   'PYMODULE'),
+  ('reportlab.lib.rltempfile',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\rltempfile.py',
+   'PYMODULE'),
+  ('reportlab.lib.units',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\lib\\units.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'e:\\moocs\\my projects\\reportinc\\venv\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Program Files\\Python35\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Program Files\\Python35\\lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Program Files\\Python35\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Program Files\\Python35\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('fractions', 'C:\\Program Files\\Python35\\lib\\fractions.py', 'PYMODULE'),
+  ('decimal', 'C:\\Program Files\\Python35\\lib\\decimal.py', 'PYMODULE'),
+  ('_pydecimal', 'C:\\Program Files\\Python35\\lib\\_pydecimal.py', 'PYMODULE'),
+  ('PIL.ImageShow',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('cffi',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'e:\\moocs\\my projects\\reportinc\\venv\\lib\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'C:\\Program Files\\Python35\\lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'C:\\Program Files\\Python35\\lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'C:\\Program Files\\Python35\\lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Program Files\\Python35\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Program Files\\Python35\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Program Files\\Python35\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Program Files\\Python35\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Program Files\\Python35\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('site',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyInstaller\\fake-modules\\site.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'C:\\Program Files\\Python35\\lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'C:\\Program Files\\Python35\\lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'C:\\Program Files\\Python35\\lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('cgi', 'C:\\Program Files\\Python35\\lib\\cgi.py', 'PYMODULE'),
+  ('configparser',
+   'C:\\Program Files\\Python35\\lib\\configparser.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'C:\\Program Files\\Python35\\lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'C:\\Program Files\\Python35\\lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'C:\\Program Files\\Python35\\lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'C:\\Program Files\\Python35\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils.msvc9compiler',
+   'C:\\Program Files\\Python35\\lib\\distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'e:\\moocs\\my projects\\reportinc\\venv\\lib\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('setuptools',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.ordered_set',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\ordered_set.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools.extern',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\extern\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.six',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\six.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._compat',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.__about__',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('json', 'C:\\Program Files\\Python35\\lib\\json\\__init__.py', 'PYMODULE'),
+  ('json.encoder',
+   'C:\\Program Files\\Python35\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Program Files\\Python35\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Program Files\\Python35\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('setuptools.namespaces',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\namespaces.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.py27compat',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\py27compat.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools.py34compat',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\py34compat.py',
+   'PYMODULE'),
+  ('setuptools.py33compat',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\py33compat.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.py31compat',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\py31compat.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command.install_scripts',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.install_scripts',
+   'C:\\Program Files\\Python35\\lib\\distutils\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.bdist',
+   'C:\\Program Files\\Python35\\lib\\distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.py36compat',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\command\\py36compat.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'C:\\Program Files\\Python35\\lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.easy_install',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\command\\easy_install.py',
+   'PYMODULE'),
+  ('setuptools.package_index',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\package_index.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.sandbox',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\sandbox.py',
+   'PYMODULE'),
+  ('distutils.command.build_scripts',
+   'C:\\Program Files\\Python35\\lib\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.install',
+   'C:\\Program Files\\Python35\\lib\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\config.py',
+   'PYMODULE'),
+  ('setuptools.ssl_support',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\ssl_support.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools._deprecation_warning',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_deprecation_warning.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('pycparser.lextab',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pycparser\\lextab.py',
+   'PYMODULE'),
+  ('pycparser.yacctab',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pycparser\\yacctab.py',
+   'PYMODULE'),
+  ('pycparser',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.plyparser',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pycparser\\plyparser.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.ply.lex',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pycparser\\ply\\lex.py',
+   'PYMODULE'),
+  ('pycparser.ply.yacc',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pycparser\\ply\\yacc.py',
+   'PYMODULE'),
+  ('pycparser.ply',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pycparser\\ply\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('numbers', 'C:\\Program Files\\Python35\\lib\\numbers.py', 'PYMODULE'),
+  ('PIL',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen.canvas',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfgen\\canvas.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.acroform',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfbase\\acroform.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen.textobject',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfgen\\textobject.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen.pathobject',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfgen\\pathobject.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen.pdfgeom',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfgen\\pdfgeom.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\reportlab\\pdfgen\\__init__.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\mpl_toolkits\\mplot3d\\__init__.py',
+   'PYMODULE'),
+  ('mpl_toolkits', '-', 'PYMODULE'),
+  ('mpl_toolkits.mplot3d.axes3d',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\mpl_toolkits\\mplot3d\\axes3d.py',
+   'PYMODULE'),
+  ('matplotlib.projections',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\projections\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.projections.polar',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\projections\\polar.py',
+   'PYMODULE'),
+  ('matplotlib.spines',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\spines.py',
+   'PYMODULE'),
+  ('matplotlib.ticker',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\ticker.py',
+   'PYMODULE'),
+  ('matplotlib.path',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\path.py',
+   'PYMODULE'),
+  ('matplotlib.hatch',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\hatch.py',
+   'PYMODULE'),
+  ('matplotlib.patches',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\patches.py',
+   'PYMODULE'),
+  ('matplotlib.patheffects',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\patheffects.py',
+   'PYMODULE'),
+  ('matplotlib.backend_bases',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backend_bases.py',
+   'PYMODULE'),
+  ('matplotlib.figure',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\figure.py',
+   'PYMODULE'),
+  ('matplotlib.tight_layout',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\tight_layout.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_agg',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_agg.py',
+   'PYMODULE'),
+  ('matplotlib.mathtext',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\mathtext.py',
+   'PYMODULE'),
+  ('matplotlib._mathtext_data',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\_mathtext_data.py',
+   'PYMODULE'),
+  ('matplotlib.afm',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\afm.py',
+   'PYMODULE'),
+  ('pyparsing',
+   'e:\\moocs\\my projects\\reportinc\\venv\\lib\\site-packages\\pyparsing.py',
+   'PYMODULE'),
+  ('matplotlib.font_manager',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\font_manager.py',
+   'PYMODULE'),
+  ('matplotlib.fontconfig_pattern',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\fontconfig_pattern.py',
+   'PYMODULE'),
+  ('matplotlib._constrained_layout',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\_constrained_layout.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_webagg',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_webagg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_webagg_core',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_webagg_core.py',
+   'PYMODULE'),
+  ('matplotlib._layoutbox',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\_layoutbox.py',
+   'PYMODULE'),
+  ('matplotlib.text',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\text.py',
+   'PYMODULE'),
+  ('matplotlib.offsetbox',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\offsetbox.py',
+   'PYMODULE'),
+  ('matplotlib.legend',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\legend.py',
+   'PYMODULE'),
+  ('matplotlib.legend_handler',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\legend_handler.py',
+   'PYMODULE'),
+  ('matplotlib.container',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\container.py',
+   'PYMODULE'),
+  ('matplotlib.gridspec',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\gridspec.py',
+   'PYMODULE'),
+  ('matplotlib.blocking_input',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\blocking_input.py',
+   'PYMODULE'),
+  ('matplotlib.colorbar',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\colorbar.py',
+   'PYMODULE'),
+  ('matplotlib.cm',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\cm.py',
+   'PYMODULE'),
+  ('matplotlib._cm_listed',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\_cm_listed.py',
+   'PYMODULE'),
+  ('matplotlib._cm',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\_cm.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy.distutils.cpuinfo',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\cpuinfo.py',
+   'PYMODULE'),
+  ('numpy.distutils.compat',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\compat.py',
+   'PYMODULE'),
+  ('numpy.distutils',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.fcompiler',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\fcompiler\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.config_compiler',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\command\\config_compiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.command',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.egg_info',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\command\\egg_info.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.develop',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\command\\develop.py',
+   'PYMODULE'),
+  ('setuptools.command.develop',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\command\\develop.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_clib',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\command\\install_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.bdist_rpm',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('distutils.command.bdist_rpm',
+   'C:\\Program Files\\Python35\\lib\\distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_rpm',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('setuptools.command.install',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\command\\install.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_headers',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('distutils.command.install_headers',
+   'C:\\Program Files\\Python35\\lib\\distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_data',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('distutils.command.install_data',
+   'C:\\Program Files\\Python35\\lib\\distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.sdist',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_scripts',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_clib',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('distutils.command.build_clib',
+   'C:\\Program Files\\Python35\\lib\\distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_ext',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('numpy.distutils.system_info',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\system_info.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py_testing',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\f2py\\f2py_testing.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.machar',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\machar.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.financial',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\financial.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.dual',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\dual.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_src',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\command\\build_src.py',
+   'PYMODULE'),
+  ('numpy.distutils.conv_template',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\conv_template.py',
+   'PYMODULE'),
+  ('numpy.distutils.from_template',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\from_template.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE'),
+  ('fileinput', 'C:\\Program Files\\Python35\\lib\\fileinput.py', 'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_py',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('distutils.command.build_py',
+   'C:\\Program Files\\Python35\\lib\\distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('distutils.command.build',
+   'C:\\Program Files\\Python35\\lib\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.config',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\command\\config.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.autodist',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\command\\autodist.py',
+   'PYMODULE'),
+  ('numpy.distutils.mingw32ccompiler',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\mingw32ccompiler.py',
+   'PYMODULE'),
+  ('distutils.msvccompiler',
+   'C:\\Program Files\\Python35\\lib\\distutils\\msvccompiler.py',
+   'PYMODULE'),
+  ('distutils.unixccompiler',
+   'C:\\Program Files\\Python35\\lib\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('distutils.cygwinccompiler',
+   'C:\\Program Files\\Python35\\lib\\distutils\\cygwinccompiler.py',
+   'PYMODULE'),
+  ('distutils.command.config',
+   'C:\\Program Files\\Python35\\lib\\distutils\\command\\config.py',
+   'PYMODULE'),
+  ('numpy.distutils.core',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\core.py',
+   'PYMODULE'),
+  ('numpy.distutils.numpy_distribution',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\numpy_distribution.py',
+   'PYMODULE'),
+  ('numpy.distutils.extension',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\extension.py',
+   'PYMODULE'),
+  ('numpy.distutils.fcompiler.environment',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\fcompiler\\environment.py',
+   'PYMODULE'),
+  ('numpy.distutils.exec_command',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\exec_command.py',
+   'PYMODULE'),
+  ('numpy.distutils.misc_util',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\misc_util.py',
+   'PYMODULE'),
+  ('curses',
+   'C:\\Program Files\\Python35\\lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'C:\\Program Files\\Python35\\lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.__config__',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\__config__.py',
+   'PYMODULE'),
+  ('numpy.distutils.npy_pkg_config',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\npy_pkg_config.py',
+   'PYMODULE'),
+  ('numpy.distutils.unixccompiler',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.ccompiler',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('numpy.distutils._shell_utils',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\_shell_utils.py',
+   'PYMODULE'),
+  ('pipes', 'C:\\Program Files\\Python35\\lib\\pipes.py', 'PYMODULE'),
+  ('numpy.distutils.lib2def',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\lib2def.py',
+   'PYMODULE'),
+  ('numpy.distutils.log',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\distutils\\log.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('matplotlib.contour',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\contour.py',
+   'PYMODULE'),
+  ('matplotlib.image',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\image.py',
+   'PYMODULE'),
+  ('matplotlib.backends',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backends\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_template',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_template.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_svg',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_svg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_mixed',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_mixed.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_ps',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_ps.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_pgf',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_pgf.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_pdf',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_pdf.py',
+   'PYMODULE'),
+  ('matplotlib.dates',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\dates.py',
+   'PYMODULE'),
+  ('matplotlib.units',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\units.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('six',
+   'e:\\moocs\\my projects\\reportinc\\venv\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('dateutil',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('matplotlib.dviread',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\dviread.py',
+   'PYMODULE'),
+  ('matplotlib.type1font',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\type1font.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_tkagg',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_tkagg.py',
+   'PYMODULE'),
+  ('matplotlib.backends._backend_tk',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backends\\_backend_tk.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'C:\\Program Files\\Python35\\lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'C:\\Program Files\\Python35\\lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('matplotlib.backend_managers',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backend_managers.py',
+   'PYMODULE'),
+  ('matplotlib.rcsetup',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\rcsetup.py',
+   'PYMODULE'),
+  ('cycler',
+   'e:\\moocs\\my projects\\reportinc\\venv\\lib\\site-packages\\cycler.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'C:\\Program Files\\Python35\\lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_qt5agg',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_qt5agg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.qt_compat',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backends\\qt_compat.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_qt5',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_qt5.py',
+   'PYMODULE'),
+  ('matplotlib.backends.qt_editor.formsubplottool',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backends\\qt_editor\\formsubplottool.py',
+   'PYMODULE'),
+  ('matplotlib.backends.qt_editor',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backends\\qt_editor\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.backends.qt_editor.figureoptions',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backends\\qt_editor\\figureoptions.py',
+   'PYMODULE'),
+  ('matplotlib.backends.qt_editor.formlayout',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backends\\qt_editor\\formlayout.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_qt4agg',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backends\\backend_qt4agg.py',
+   'PYMODULE'),
+  ('matplotlib.texmanager',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\texmanager.py',
+   'PYMODULE'),
+  ('matplotlib._pylab_helpers',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\_pylab_helpers.py',
+   'PYMODULE'),
+  ('matplotlib.widgets',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\widgets.py',
+   'PYMODULE'),
+  ('matplotlib.tight_bbox',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\tight_bbox.py',
+   'PYMODULE'),
+  ('matplotlib.textpath',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\textpath.py',
+   'PYMODULE'),
+  ('matplotlib.backend_tools',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\backend_tools.py',
+   'PYMODULE'),
+  ('matplotlib.bezier',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\bezier.py',
+   'PYMODULE'),
+  ('matplotlib.lines',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\lines.py',
+   'PYMODULE'),
+  ('matplotlib.markers',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\markers.py',
+   'PYMODULE'),
+  ('matplotlib.axis',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\axis.py',
+   'PYMODULE'),
+  ('matplotlib.projections.geo',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\projections\\geo.py',
+   'PYMODULE'),
+  ('matplotlib.tri.triangulation',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\tri\\triangulation.py',
+   'PYMODULE'),
+  ('matplotlib.tri',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\tri\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.tri.triplot',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\tri\\triplot.py',
+   'PYMODULE'),
+  ('matplotlib.tri.tripcolor',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\tri\\tripcolor.py',
+   'PYMODULE'),
+  ('matplotlib.tri.trirefine',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\tri\\trirefine.py',
+   'PYMODULE'),
+  ('matplotlib.tri.triinterpolate',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\tri\\triinterpolate.py',
+   'PYMODULE'),
+  ('matplotlib.tri.tritools',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\tri\\tritools.py',
+   'PYMODULE'),
+  ('matplotlib.tri.tricontour',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\tri\\tricontour.py',
+   'PYMODULE'),
+  ('matplotlib.tri.trifinder',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\tri\\trifinder.py',
+   'PYMODULE'),
+  ('matplotlib.transforms',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\transforms.py',
+   'PYMODULE'),
+  ('matplotlib.scale',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\scale.py',
+   'PYMODULE'),
+  ('matplotlib.docstring',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\docstring.py',
+   'PYMODULE'),
+  ('matplotlib.colors',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\colors.py',
+   'PYMODULE'),
+  ('matplotlib._color_data',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\_color_data.py',
+   'PYMODULE'),
+  ('matplotlib.collections',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\collections.py',
+   'PYMODULE'),
+  ('matplotlib.cbook',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\cbook\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.cbook.deprecation',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\cbook\\deprecation.py',
+   'PYMODULE'),
+  ('matplotlib.axes',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\axes\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.axes._axes',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\axes\\_axes.py',
+   'PYMODULE'),
+  ('matplotlib.axes._base',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\axes\\_base.py',
+   'PYMODULE'),
+  ('matplotlib.table',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\table.py',
+   'PYMODULE'),
+  ('matplotlib.streamplot',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\streamplot.py',
+   'PYMODULE'),
+  ('matplotlib.stackplot',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\stackplot.py',
+   'PYMODULE'),
+  ('matplotlib.quiver',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\quiver.py',
+   'PYMODULE'),
+  ('matplotlib.mlab',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\mlab.py',
+   'PYMODULE'),
+  ('csv', 'C:\\Program Files\\Python35\\lib\\csv.py', 'PYMODULE'),
+  ('matplotlib.category',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\category.py',
+   'PYMODULE'),
+  ('matplotlib.axes._subplots',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\axes\\_subplots.py',
+   'PYMODULE'),
+  ('matplotlib.artist',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\artist.py',
+   'PYMODULE'),
+  ('matplotlib',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.pylab',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\pylab.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('matplotlib.style.core',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\style\\core.py',
+   'PYMODULE'),
+  ('matplotlib.style',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\style\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib._version',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\_version.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.axis3d',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\mpl_toolkits\\mplot3d\\axis3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.art3d',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\mpl_toolkits\\mplot3d\\art3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.proj3d',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\mpl_toolkits\\mplot3d\\proj3d.py',
+   'PYMODULE'),
+  ('matplotlib.pyplot',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\matplotlib\\pyplot.py',
+   'PYMODULE'),
+  ('numpy',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('pandas',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.tslibs',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\_libs\\tslibs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._version',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\_version.py',
+   'PYMODULE'),
+  ('pandas.arrays',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numpy_',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\arrays\\numpy_.py',
+   'PYMODULE'),
+  ('pandas.core.algorithms',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\algorithms.py',
+   'PYMODULE'),
+  ('pandas.core.indexing',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.index',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\index.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.multi',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\indexes\\multi.py',
+   'PYMODULE'),
+  ('pandas.core.indexes',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\indexes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.numeric',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\indexes\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.ops',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expressions',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\computation\\expressions.py',
+   'PYMODULE'),
+  ('pandas.core.computation',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\computation\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.computation.check',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\computation\\check.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.concat',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.util.hashing',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\util\\hashing.py',
+   'PYMODULE'),
+  ('pandas.core.util',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.formats.format',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\formats\\format.py',
+   'PYMODULE'),
+  ('pandas.io.formats.html',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\formats\\html.py',
+   'PYMODULE'),
+  ('pandas.io.formats.latex',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\formats\\latex.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.concat',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\reshape\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.internals',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\internals\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.internals.managers',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\internals\\managers.py',
+   'PYMODULE'),
+  ('pandas.core.internals.concat',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\internals\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.internals.blocks',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\internals\\blocks.py',
+   'PYMODULE'),
+  ('pandas.core.generic',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.window',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\window.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.base',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\groupby\\base.py',
+   'PYMODULE'),
+  ('pandas.core.groupby',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\groupby\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.grouper',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\groupby\\grouper.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.categorical',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\groupby\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.ops',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\groupby\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.frame',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\frame.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.merge',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\reshape\\merge.py',
+   'PYMODULE'),
+  ('pandas.core.apply',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\apply.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.melt',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\reshape\\melt.py',
+   'PYMODULE'),
+  ('pandas.core.tools.numeric',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\tools\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.tools',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\tools\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.reshape',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\reshape\\reshape.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.pivot',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\reshape\\pivot.py',
+   'PYMODULE'),
+  ('pandas.core.computation.eval',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\computation\\eval.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expr',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\computation\\expr.py',
+   'PYMODULE'),
+  ('pandas.core.computation.ops',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\computation\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.computation.common',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\computation\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation.scope',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\computation\\scope.py',
+   'PYMODULE'),
+  ('pandas.core.computation.engines',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\computation\\engines.py',
+   'PYMODULE'),
+  ('pandas.core.computation.align',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\computation\\align.py',
+   'PYMODULE'),
+  ('pandas.io.parquet',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\parquet.py',
+   'PYMODULE'),
+  ('pandas.io.feather_format',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\feather_format.py',
+   'PYMODULE'),
+  ('pandas.io.stata',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\stata.py',
+   'PYMODULE'),
+  ('pandas.io.parsers',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\parsers.py',
+   'PYMODULE'),
+  ('pandas.io.date_converters',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\date_converters.py',
+   'PYMODULE'),
+  ('pandas.io.gbq',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\gbq.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\formats\\style.py',
+   'PYMODULE'),
+  ('pandas.api.types',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\api\\types\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\api\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.extensions',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\api\\extensions\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.api',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.panel',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\panel.py',
+   'PYMODULE'),
+  ('pandas.io.excel',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\excel.py',
+   'PYMODULE'),
+  ('pandas.plotting._core',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\plotting\\_core.py',
+   'PYMODULE'),
+  ('pandas.plotting._timeseries',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\plotting\\_timeseries.py',
+   'PYMODULE'),
+  ('pandas.tseries.offsets',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\tseries\\offsets.py',
+   'PYMODULE'),
+  ('pandas.tseries',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\tseries\\__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._converter',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\plotting\\_converter.py',
+   'PYMODULE'),
+  ('pandas.plotting._tools',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\plotting\\_tools.py',
+   'PYMODULE'),
+  ('pandas.plotting._style',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\plotting\\_style.py',
+   'PYMODULE'),
+  ('pandas.plotting._compat',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\plotting\\_compat.py',
+   'PYMODULE'),
+  ('pandas.plotting',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\plotting\\__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._misc',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\plotting\\_misc.py',
+   'PYMODULE'),
+  ('pandas.io.formats.console',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\formats\\console.py',
+   'PYMODULE'),
+  ('pandas.core.internals.construction',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\internals\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.accessor',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.generic',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\groupby\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.tools.datetimes',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\tools\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.resample',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\resample.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.timedeltas',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\indexes\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimelike',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\indexes\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.tools.timedeltas',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\tools\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.groupby',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\groupby\\groupby.py',
+   'PYMODULE'),
+  ('pandas.io.formats.csvs',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\formats\\csvs.py',
+   'PYMODULE'),
+  ('pandas.io.clipboards',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\clipboards.py',
+   'PYMODULE'),
+  ('pandas.io.clipboard',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.clipboard.windows',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\clipboard\\windows.py',
+   'PYMODULE'),
+  ('pandas.io.clipboard.exceptions',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\clipboard\\exceptions.py',
+   'PYMODULE'),
+  ('pandas.io.clipboard.clipboards',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\clipboard\\clipboards.py',
+   'PYMODULE'),
+  ('pandas.io.pickle',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\pickle.py',
+   'PYMODULE'),
+  ('pandas.compat.pickle_compat',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\compat\\pickle_compat.py',
+   'PYMODULE'),
+  ('pandas.io.sql',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\sql.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Program Files\\Python35\\lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Program Files\\Python35\\lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Program Files\\Python35\\lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('pandas.io.packers',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\packers.py',
+   'PYMODULE'),
+  ('pandas.io.msgpack',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\msgpack\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.msgpack._version',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\msgpack\\_version.py',
+   'PYMODULE'),
+  ('pandas.io.msgpack.exceptions',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\msgpack\\exceptions.py',
+   'PYMODULE'),
+  ('pandas.util',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.pytables',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\pytables.py',
+   'PYMODULE'),
+  ('pandas.core.computation.pytables',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\computation\\pytables.py',
+   'PYMODULE'),
+  ('pandas.io.json',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\json\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.json.table_schema',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\json\\table_schema.py',
+   'PYMODULE'),
+  ('pandas.io.json.normalize',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\json\\normalize.py',
+   'PYMODULE'),
+  ('pandas.io.json.json',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\json\\json.py',
+   'PYMODULE'),
+  ('pandas.io',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.gcs',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\gcs.py',
+   'PYMODULE'),
+  ('pandas.io.s3',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\s3.py',
+   'PYMODULE'),
+  ('pandas.io.formats.excel',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\formats\\excel.py',
+   'PYMODULE'),
+  ('pandas.io.formats.css',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\formats\\css.py',
+   'PYMODULE'),
+  ('pandas.tseries.frequencies',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\tseries\\frequencies.py',
+   'PYMODULE'),
+  ('pytz',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'e:\\moocs\\my projects\\reportinc\\venv\\lib\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.period',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\indexes\\period.py',
+   'PYMODULE'),
+  ('pandas.core.reshape',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\reshape\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.formats.terminal',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\formats\\terminal.py',
+   'PYMODULE'),
+  ('pandas.io.common',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\common.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimes',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\indexes\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.base',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\base.py',
+   'PYMODULE'),
+  ('pandas.io.formats',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\formats\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.util',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\reshape\\util.py',
+   'PYMODULE'),
+  ('pandas.io.formats.printing',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\formats\\printing.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.frozen',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\indexes\\frozen.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.base',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\indexes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.interval',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\indexes\\interval.py',
+   'PYMODULE'),
+  ('pandas.util._exceptions',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\util\\_exceptions.py',
+   'PYMODULE'),
+  ('pandas.util._doctools',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\util\\_doctools.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.category',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\indexes\\category.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.range',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\indexes\\range.py',
+   'PYMODULE'),
+  ('pandas.core.strings',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\strings.py',
+   'PYMODULE'),
+  ('pandas.core.config',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\config.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.api',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\indexes\\api.py',
+   'PYMODULE'),
+  ('pandas.errors',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\errors\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.tile',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\reshape\\tile.py',
+   'PYMODULE'),
+  ('pandas.core.series',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\series.py',
+   'PYMODULE'),
+  ('pandas.core.sparse.series',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\sparse\\series.py',
+   'PYMODULE'),
+  ('pandas.core.sparse',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\sparse\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.sparse.scipy_sparse',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\sparse\\scipy_sparse.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.accessors',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\indexes\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.sorting',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\sorting.py',
+   'PYMODULE'),
+  ('pandas.core.common',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\common.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.missing',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.common',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\common.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.cast',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\cast.py',
+   'PYMODULE'),
+  ('pandas.util._decorators',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\util\\_decorators.py',
+   'PYMODULE'),
+  ('pandas.core.internals.arrays',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\internals\\arrays.py',
+   'PYMODULE'),
+  ('pandas.core.missing',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.nanops',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\nanops.py',
+   'PYMODULE'),
+  ('pandas.compat',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\compat\\__init__.py',
+   'PYMODULE'),
+  ('typing', 'C:\\Program Files\\Python35\\lib\\typing.py', 'PYMODULE'),
+  ('pandas.compat.chainmap',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\compat\\chainmap.py',
+   'PYMODULE'),
+  ('pandas.compat.chainmap_impl',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\compat\\chainmap_impl.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.inference',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\inference.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.generic',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.dtypes',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\dtypes.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.base',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\base.py',
+   'PYMODULE'),
+  ('pandas.util._validators',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\util\\_validators.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy.function',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\compat\\numpy\\function.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\arrays\\sparse.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.integer',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\arrays\\integer.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.timedeltas',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\arrays\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.period',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\arrays\\period.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.interval',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\arrays\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimes',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\arrays\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._ranges',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\arrays\\_ranges.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.categorical',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\arrays\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.base',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\arrays\\base.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.array_',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\arrays\\array_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimelike',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\arrays\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\__init__.py',
+   'PYMODULE'),
+  ('pandas.testing',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\testing.py',
+   'PYMODULE'),
+  ('pandas.util.testing',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\util\\testing.py',
+   'PYMODULE'),
+  ('pandas.util._tester',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\util\\_tester.py',
+   'PYMODULE'),
+  ('pandas.io.api',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\api.py',
+   'PYMODULE'),
+  ('pandas.io.sas',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\sas\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sasreader',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\sas\\sasreader.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas7bdat',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\sas\\sas7bdat.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_constants',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\sas\\sas_constants.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_xport',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\sas\\sas_xport.py',
+   'PYMODULE'),
+  ('pandas.io.html',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\io\\html.py',
+   'PYMODULE'),
+  ('lxml.html',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\lxml\\html\\__init__.py',
+   'PYMODULE'),
+  ('lxml.cssselect',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\lxml\\cssselect.py',
+   'PYMODULE'),
+  ('lxml.html._setmixin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\lxml\\html\\_setmixin.py',
+   'PYMODULE'),
+  ('lxml.html.defs',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\lxml\\html\\defs.py',
+   'PYMODULE'),
+  ('pandas.util._print_versions',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\util\\_print_versions.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.api',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\reshape\\api.py',
+   'PYMODULE'),
+  ('pandas.core.computation.api',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\computation\\api.py',
+   'PYMODULE'),
+  ('pandas.tseries.api',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\tseries\\api.py',
+   'PYMODULE'),
+  ('pandas.core.sparse.api',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\sparse\\api.py',
+   'PYMODULE'),
+  ('pandas.core.sparse.frame',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\sparse\\frame.py',
+   'PYMODULE'),
+  ('pandas.core.api',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\api.py',
+   'PYMODULE'),
+  ('pandas.core.config_init',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\core\\config_init.py',
+   'PYMODULE'),
+  ('pandas._libs',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\_libs\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pandas\\compat\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('os', 'C:\\Program Files\\Python35\\lib\\os.py', 'PYMODULE'),
+  ('PyQt5.uic',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.objcreator',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\objcreator.py',
+   'PYMODULE'),
+  ('PyQt5.uic.exceptions',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\exceptions.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Loader.loader',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\Loader\\loader.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Loader',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\Loader\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Loader.qobjectcreator',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\Loader\\qobjectcreator.py',
+   'PYMODULE'),
+  ('PyQt5.uic.uiparser',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\uiparser.py',
+   'PYMODULE'),
+  ('PyQt5.uic.properties',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\properties.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3.ascii_upper',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\port_v3\\ascii_upper.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\port_v3\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.icon_cache',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\icon_cache.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Program Files\\Python35\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Program Files\\Python35\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Program Files\\Python35\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Program Files\\Python35\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Program Files\\Python35\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v2.string_io',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\port_v2\\string_io.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v2',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\port_v2\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3.string_io',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\port_v3\\string_io.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.compiler',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\Compiler\\compiler.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.qobjectcreator',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\Compiler\\qobjectcreator.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v2.as_string',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\port_v2\\as_string.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3.as_string',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\port_v3\\as_string.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.qtproxies',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\Compiler\\qtproxies.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v2.proxy_base',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\port_v2\\proxy_base.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.proxy_metaclass',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\Compiler\\proxy_metaclass.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3.proxy_base',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\port_v3\\proxy_base.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.misc',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\Compiler\\misc.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.indenter',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\Compiler\\indenter.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\uic\\Compiler\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PyQt5\\__init__.py',
+   'PYMODULE')])

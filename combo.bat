@@ -1,0 +1,1 @@
+pyuic5 -x -o gyro-auto-reporter-combo_box.py gyro-auto-reporter-combo_box.ui

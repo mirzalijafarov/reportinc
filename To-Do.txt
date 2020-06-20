@@ -1,0 +1,19 @@
+Drilling Report
+
+1. Add current depth
+2. Target plot-center, equal grid
+3. Use average of 2 surveys
+
+
+GUI
+
+1. Make fields required
+2. Error handling
+3. Process status
+
+
+
+New Func:
+1. Create KML
+2. Add Prediction
+3. Multishot calculation

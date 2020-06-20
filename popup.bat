@@ -1,0 +1,1 @@
+pyuic5 -x -o gyro-auto-reporter_date_popup.py gyro-auto-reporter_date_popup.ui
