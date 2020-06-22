@@ -439,7 +439,7 @@ try:
                 rel_path2 = "logo\\dag_logo.jpg"
                 rel_path3 = "logo\\BLASTO-logo-New.png"
                 rel_path4 = "logo\\ATG_logo.jpg"
-                logo_at_g = os.path.join(script_dir, rel_path1)
+                logo_at_g = os.path     .join(script_dir, rel_path1)
                 logo_azdg = os.path.join(script_dir, rel_path2)
                 logo_blst = os.path.join(script_dir, rel_path3)
                 logo_atg = os.path.join(script_dir, rel_path4)

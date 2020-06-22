@@ -59,8 +59,15 @@ try:
             self.lineEdit_9.clear()
             self.lineEdit_17.clear()
 
+            #when button is pressed this method is being called
+        def do_action(self):
+                # setting for loop to set value of progress bar
+            for i in range(101):
+                    # slowing down the loop
+                time.sleep(0.05)
 
-
+                    # setting value to progress bar
+                self.pbar.setValue(i)
 
 
 
@@ -108,8 +115,9 @@ try:
             self.label_11.setGeometry(QtCore.QRect(20, 302, 43, 16))
             self.label_11.setObjectName("label_11")
             self.pushButton_3 = QtWidgets.QPushButton(self.centralwidget)
-            self.pushButton_3.setGeometry(QtCore.QRect(290, 270, 141, 51))
+            self.pushButton_3.setGeometry(QtCore.QRect(290, 270, 140, 41))
             self.pushButton_3.setObjectName("pushButton_3")
+            self.pushButton_3.clicked.connect(self.do_action)
             self.pushButton_3.clicked.connect(self.calc_func)
             self.pushButton_3.clicked.connect(self.show_popup)
             self.pushButton_3.clicked.connect(self.clear_all)
@@ -187,9 +195,6 @@ try:
             self.comboBox.addItem("")
             self.verticalLayout_2.addWidget(self.comboBox)
             self.comboBox.currentIndexChanged.connect(self.logoooo)
-
-
-
 
 
             self.widget2 = QtWidgets.QWidget(self.centralwidget)
@@ -288,6 +293,13 @@ try:
 
             self.retranslateUi(MainWindow)
             QtCore.QMetaObject.connectSlotsByName(MainWindow)
+
+
+
+
+            self.pbar = QtWidgets.QProgressBar(self.centralwidget)
+            self.pbar.setGeometry(290, 310, 141, 10)
+
 
 
 
