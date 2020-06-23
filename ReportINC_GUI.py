@@ -40,10 +40,19 @@ try:
     # Message Box
         def show_popup(self):
             msg = QMessageBox()
+            msg.setWindowTitle("Done!")
+            msg.setText("Check the Output folder!")
+            msg.setIcon(QMessageBox.Information)
+            x = msg.exec_()
+
+    #progress
+        def progress_bar(self):
+            msg = QMessageBox()
             msg.setWindowTitle("Info")
             msg.setText("Done!")
             msg.setIcon(QMessageBox.Information)
             x = msg.exec_()
+
 
 
     #clear all
