@@ -79,6 +79,8 @@ try:
                 self.pbar.setValue(i)
 
 
+
+
         def setupUi(self, MainWindow):
             MainWindow.setObjectName("MainWindow")
             MainWindow.resize(472, 345)
@@ -309,7 +311,6 @@ try:
 
 
 
-
         def retranslateUi(self, MainWindow):
             _translate = QtCore.QCoreApplication.translate
             MainWindow.setWindowTitle(_translate("MainWindow", "ReportINC"))
@@ -341,6 +342,14 @@ try:
             self.comboBox.setItemText(3, _translate("MainWindow", "ATG"))
 
 
+    class MyWindow(QtWidgets.QMainWindow):
+        def closeEvent(self, event):
+            result = QtWidgets.QMessageBox.question(self, "Close", "Are you sure you want to close the program ?", QtWidgets.QMessageBox.Yes | QtWidgets.QMessageBox.No)
+            event.ignore()
+
+            if result == QtWidgets.QMessageBox.Yes:
+                event.accept()
+
 
     if __name__ == "__main__":
         app = QtWidgets.QApplication(sys.argv)
@@ -363,7 +372,8 @@ try:
         rel_path6 = "logo\\taskbar-icon.png"
         taskbar_icon = os.path.join(script_dir1, rel_path6)
         app.setWindowIcon(QtGui.QIcon(taskbar_icon))
-        MainWindow = QtWidgets.QMainWindow()
+        #MainWindow = QtWidgets.QMainWindow()
+        MainWindow = MyWindow()
         ui = Ui_MainWindow()
         ui.setupUi(MainWindow)
         MainWindow.show()
