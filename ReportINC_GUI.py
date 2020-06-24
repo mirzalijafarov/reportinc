@@ -79,8 +79,6 @@ try:
                 self.pbar.setValue(i)
 
 
-
-
         def setupUi(self, MainWindow):
             MainWindow.setObjectName("MainWindow")
             MainWindow.resize(472, 345)
