@@ -46,12 +46,12 @@ try:
             x = msg.exec_()
 
     #progress
-        def progress_bar(self):
-            msg = QMessageBox()
-            msg.setWindowTitle("Info")
-            msg.setText("Done!")
-            msg.setIcon(QMessageBox.Information)
-            x = msg.exec_()
+        # def progress_bar(self):
+        #     msg = QMessageBox()
+        #     msg.setWindowTitle("Info")
+        #     msg.setText("Done!")
+        #     msg.setIcon(QMessageBox.Information)
+        #     x = msg.exec_()
 
 
 
@@ -78,6 +78,45 @@ try:
                     # setting value to progress bar
                 self.pbar.setValue(i)
 
+
+        #popup error message
+        def popup_error(self):
+            msg = QMessageBox()
+            msg.setWindowTitle("Reportinc")
+            msg.setText("Please, fill all the fields!")
+            msg.setIcon(QMessageBox.Warning)
+            msg.setStandardButtons(QMessageBox.Ok)
+
+            x = msg.exec_()
+
+        def check(self, list, val):
+            return (all(x > val for x in list))
+
+        def length_of_input(self):
+            all_inputs = [self.lineEdit.text(), self.lineEdit_2.text(), self.lineEdit_3.text(), self.lineEdit_4.text(),
+                          self.lineEdit_5.text(), self.lineEdit_6.text(), self.lineEdit_7.text(), self.lineEdit_8.text(),
+                          self.lineEdit_9.text(), self.lineEdit_10.text(), self.lineEdit_11.text(), self.lineEdit_12.text(),
+                          self.lineEdit_13.text(), self.lineEdit_17.text()]
+
+            length = [len(i) for i in all_inputs]
+            return length
+
+
+    # Pop up required field message
+        def fill_all_fields(self):
+            #a = self.lineEdit_2.text()
+            #length = int(len(a))
+            val=0
+            length = self.length_of_input()
+            if(self.check(length, val)):
+                self.do_action()
+                self.calc_func()
+                self.show_popup()
+                self.clear_all()
+
+
+            else:
+                self.popup_error()
 
 
 
@@ -126,10 +165,12 @@ try:
             self.pushButton_3 = QtWidgets.QPushButton(self.centralwidget)
             self.pushButton_3.setGeometry(QtCore.QRect(290, 270, 140, 41))
             self.pushButton_3.setObjectName("pushButton_3")
-            self.pushButton_3.clicked.connect(self.do_action)
-            self.pushButton_3.clicked.connect(self.calc_func)
-            self.pushButton_3.clicked.connect(self.show_popup)
-            self.pushButton_3.clicked.connect(self.clear_all)
+            #self.pushButton_3.clicked.connect(self.popup_error)
+            self.pushButton_3.clicked.connect(self.fill_all_fields)
+            #self.pushButton_3.clicked.connect(self.do_action)
+            #self.pushButton_3.clicked.connect(self.calc_func)
+            #self.pushButton_3.clicked.connect(self.show_popup)
+            #self.pushButton_3.clicked.connect(self.clear_all)
             #self.pushButton_3.clicked.connect(self.lineEdit_6.clear)
             self.widget = QtWidgets.QWidget(self.centralwidget)
             self.widget.setGeometry(QtCore.QRect(20, 51, 121, 171))
