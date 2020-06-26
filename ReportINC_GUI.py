@@ -45,15 +45,6 @@ try:
             msg.setIcon(QMessageBox.Information)
             x = msg.exec_()
 
-    #progress
-        # def progress_bar(self):
-        #     msg = QMessageBox()
-        #     msg.setWindowTitle("Info")
-        #     msg.setText("Done!")
-        #     msg.setIcon(QMessageBox.Information)
-        #     x = msg.exec_()
-
-
 
     #clear all
         def clear_all(self):
@@ -77,6 +68,7 @@ try:
 
                     # setting value to progress bar
                 self.pbar.setValue(i)
+
 
 
         #popup error message
@@ -117,7 +109,6 @@ try:
 
             else:
                 self.popup_error()
-
 
 
         def setupUi(self, MainWindow):

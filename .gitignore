@@ -163,3 +163,11 @@ dmypy.json
 .pytype/
 
 # End of https://www.toptal.com/developers/gitignore/api/git,python,jupyternotebooks
+
+
+pyqt5_example1.py
+pyqt5_example2.py
+pyqt5_example3.py
+pyqt5_example4.py
+pyqt5_example5.py
+pyqt5_example6.py
