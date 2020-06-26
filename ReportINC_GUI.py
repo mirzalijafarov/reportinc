@@ -13,6 +13,7 @@ import ReportINC_base
 import pkg_resources.py2_warn
 import traceback
 try:
+
     class Ui_MainWindow(object):
         def calc_func(self):
             ReportINC_base.generate_report(self)
@@ -343,6 +344,7 @@ try:
 
 
 
+
         def retranslateUi(self, MainWindow):
             _translate = QtCore.QCoreApplication.translate
             MainWindow.setWindowTitle(_translate("MainWindow", "ReportINC"))
@@ -385,6 +387,8 @@ try:
 
     if __name__ == "__main__":
         app = QtWidgets.QApplication(sys.argv)
+        app.setStyleSheet("QPushButton { background-color: orange }");
+
 
         # Create and display the splash screen
         script_dir1 = os.path.dirname(__file__)
