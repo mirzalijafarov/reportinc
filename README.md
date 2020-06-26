@@ -33,6 +33,6 @@ GUI has been created with PyQt5
 
 I occasionally update the program and add new features.
 
-It is only compatible with REFLEX Gyro for now, however, I intend to add other inclinometers that are widely used in Mining industry.
+It is only compatible with REFLEX GYRO for now, however, I intend to add other inclinometers that are widely used in Mining industry.
 
 
