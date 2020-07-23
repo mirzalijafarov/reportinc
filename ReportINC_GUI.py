@@ -347,7 +347,7 @@ try:
 
         def retranslateUi(self, MainWindow):
             _translate = QtCore.QCoreApplication.translate
-            MainWindow.setWindowTitle(_translate("MainWindow", "ReportINC"))
+            MainWindow.setWindowTitle(_translate("MainWindow", "ReportINC v01"))
             self.label_7.setText(_translate("MainWindow", "General Information"))
             self.label_8.setText(_translate("MainWindow", "Drilling Parameters"))
             self.label_9.setText(_translate("MainWindow", "Import Survey Data"))
