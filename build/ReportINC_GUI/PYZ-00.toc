@@ -341,25 +341,29 @@
    'e:\\moocs\\my '
    'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\__init__.py',
    'PYMODULE'),
-  ('pkg_resources._vendor',
+  ('pkg_resources._vendor.six',
    'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
    'PYMODULE'),
   ('pkg_resources._vendor.appdirs',
    'e:\\moocs\\my '
    'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging.__about__',
+  ('pkg_resources._vendor.packaging.specifiers',
    'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging.requirements',
+  ('pkg_resources._vendor.packaging',
    'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging.utils',
+  ('pkg_resources._vendor.packaging._compat',
    'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
    'PYMODULE'),
   ('pkg_resources._vendor.pyparsing',
    'e:\\moocs\\my '
@@ -381,33 +385,29 @@
   ('ctypes.macholib.framework',
    'C:\\Program Files\\Python35\\lib\\ctypes\\macholib\\framework.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.six',
+  ('pkg_resources._vendor.packaging.requirements',
    'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging.specifiers',
+  ('pkg_resources._vendor.packaging.__about__',
    'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.version',
    'e:\\moocs\\my '
    'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging._compat',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging._structures',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
-   'PYMODULE'),
   ('pkg_resources._vendor.packaging.markers',
    'e:\\moocs\\my '
    'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
    'PYMODULE'),
   ('sysconfig', 'C:\\Program Files\\Python35\\lib\\sysconfig.py', 'PYMODULE'),
   ('_osx_support',
@@ -1028,81 +1028,57 @@
   ('PIL.Image',
    'e:\\moocs\\my projects\\reportinc\\venv\\lib\\site-packages\\PIL\\Image.py',
    'PYMODULE'),
-  ('PIL.WebPImagePlugin',
+  ('PIL.FpxImagePlugin',
    'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
    'PYMODULE'),
-  ('PIL.FtexImagePlugin',
+  ('PIL.TgaImagePlugin',
    'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.XbmImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.SunImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\SunImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.MpoImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.MpegImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.MicImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\MicImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.DcxImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.IcoImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.FliImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\FliImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.IptcImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PdfImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PdfParser',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PdfParser.py',
-   'PYMODULE'),
-  ('PIL.DdsImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.BufrStubImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.ImImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\ImImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.ImtImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
    'PYMODULE'),
   ('PIL.IcnsImagePlugin',
    'e:\\moocs\\my '
    'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
    'PYMODULE'),
-  ('PIL.PalmImagePlugin',
+  ('PIL.MspImagePlugin',
    'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
    'PYMODULE'),
   ('PIL.SpiderImagePlugin',
    'e:\\moocs\\my '
@@ -1124,85 +1100,109 @@
   ('tkinter.constants',
    'C:\\Program Files\\Python35\\lib\\tkinter\\constants.py',
    'PYMODULE'),
-  ('PIL.Hdf5StubImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PixarImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.McIdasImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.EpsImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.WmfImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.TgaImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.CurImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\CurImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.XpmImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.SgiImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.XVThumbImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.MspImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\MspImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.BlpImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
-   'PYMODULE'),
   ('PIL.GribStubImagePlugin',
    'e:\\moocs\\my '
    'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
    'PYMODULE'),
-  ('PIL.PsdImagePlugin',
+  ('PIL.MicImagePlugin',
    'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PcdImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.FpxImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\MicImagePlugin.py',
    'PYMODULE'),
   ('PIL.GbrImagePlugin',
    'e:\\moocs\\my '
    'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
    'PYMODULE'),
-  ('PIL.FitsStubImagePlugin',
+  ('PIL.IptcImagePlugin',
    'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PcxImagePlugin',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
    'PYMODULE'),
   ('PIL.Jpeg2KImagePlugin',
    'e:\\moocs\\my '
    'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
    'PYMODULE'),
   ('PIL.TiffImagePlugin',
    'e:\\moocs\\my '
@@ -1345,37 +1345,29 @@
    'e:\\moocs\\my '
    'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\__init__.py',
    'PYMODULE'),
-  ('setuptools._vendor.packaging.tags',
+  ('setuptools._vendor',
    'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging.version',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging.utils',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging._structures',
    'e:\\moocs\\my '
    'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
    'PYMODULE'),
-  ('setuptools._vendor.packaging._compat',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_compat.py',
-   'PYMODULE'),
   ('setuptools._vendor.six',
    'e:\\moocs\\my '
    'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\six.py',
    'PYMODULE'),
-  ('setuptools._vendor.packaging',
+  ('setuptools._vendor.packaging.utils',
    'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
    'PYMODULE'),
-  ('setuptools._vendor',
+  ('setuptools._vendor.packaging.tags',
    'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging.requirements',
    'e:\\moocs\\my '
@@ -1385,25 +1377,33 @@
    'e:\\moocs\\my '
    'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\extern\\__init__.py',
    'PYMODULE'),
-  ('setuptools._vendor.packaging.__about__',
-   'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
-   'PYMODULE'),
   ('setuptools._vendor.packaging.markers',
    'e:\\moocs\\my '
    'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._compat',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_compat.py',
    'PYMODULE'),
   ('setuptools._vendor.ordered_set',
    'e:\\moocs\\my '
    'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\ordered_set.py',
    'PYMODULE'),
-  ('setuptools._vendor.packaging.specifiers',
+  ('setuptools._vendor.packaging.version',
    'e:\\moocs\\my '
-   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
    'PYMODULE'),
   ('setuptools._vendor.pyparsing',
    'e:\\moocs\\my '
    'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.__about__',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'e:\\moocs\\my '
+   'projects\\reportinc\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
    'PYMODULE'),
   ('setuptools.msvc',
    'e:\\moocs\\my '

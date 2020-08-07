@@ -107,7 +107,7 @@ try:
 
                 #Misclosure plot
                 misclosure_line = np.linspace(0, misclosure, 50)
-                misclosure_max_line = np.linspace(0, survey_out["Station"].iloc[-1]/100, 50)
+                misclosure_max_line = np.linspace(0, (survey_out["Station"].iloc[-1] - survey_out["Station"].iloc[0])/100, 50)
                 depth_line = np.linspace(0, survey_out["Station"].iloc[-1], 50)
 
                 fig1, ax1 = plt.subplots(figsize=(6, 3))
@@ -133,6 +133,10 @@ try:
                 xdata_out = survey_out["Easting"]
                 ydata_out = survey_out["Northing"]
                 zdata_out = survey_out["Elevation"]
+
+                xdata_avg = (xdata_in + xdata_out) / 2
+                ydata_avg = (ydata_in + ydata_out) / 2
+                zdata_avg = (zdata_in + zdata_out) / 2
 
                 ax2.scatter3D(xdata_in, ydata_in, zdata_in, c="orange")
                 ax2.plot(xdata_in, ydata_in, zdata_in, c="orange", label="Survey1")
@@ -302,10 +306,16 @@ try:
                 actual_easting1 = survey_in["Easting"].iloc[-1]
                 actual_northing1 = survey_in["Northing"].iloc[-1]
                 actual_elevation1 = survey_in["Elevation"].iloc[-1]
+
                 #Survey 02
                 actual_easting2 = survey_out["Easting"].iloc[-1]
                 actual_northing2 = survey_out["Northing"].iloc[-1]
                 actual_elevation2 = survey_out["Elevation"].iloc[-1]
+
+                # Average
+                average_easting = (actual_easting1 + actual_easting2) / 2
+                average_northing = (actual_northing1 + actual_northing2) / 2
+                average_elevation = (actual_elevation1 + actual_elevation2) / 2
 
                 # Target Differences
                 targ_east_differ1 = abs(target_easting - actual_easting1)
@@ -316,11 +326,18 @@ try:
                 targ_nort_differ2 = abs(target_northing - actual_northing2)
                 targ_elev_differ2 = abs(target_elevation - actual_elevation2)
 
+                targ_east_differ_avg = abs(target_easting - average_easting)
+                targ_nort_differ_avg = abs(target_northing - average_northing)
+                targ_elev_differ_avg = abs(target_elevation - average_elevation)
+
                 tot_misc_to_targ1 = np.sqrt(targ_east_differ1 ** 2 + targ_nort_differ1 ** 2 + targ_elev_differ1 ** 2)
                 tot_misc_to_targ2 = np.sqrt(targ_east_differ2 ** 2 + targ_nort_differ2 ** 2 + targ_elev_differ2 ** 2)
+                tot_misc_to_targ_avg = np.sqrt(targ_east_differ_avg ** 2 + targ_nort_differ_avg ** 2 + targ_elev_differ_avg ** 2)
+
 
                 tot_misc_to_targ1_perc = tot_misc_to_targ1 / depth * 100
                 tot_misc_to_targ2_perc = tot_misc_to_targ2 / depth * 100
+                tot_misc_to_targ_avg_perc = tot_misc_to_targ_avg / depth * 100
 
 
                 fig11, ax11 = plt.subplots(figsize=(6, 6))
@@ -329,23 +346,27 @@ try:
                              s = 300,
                              color = "green",
                              alpha = 0.5,
-                             label = "Target")
-                ax11.scatter(actual_easting1, actual_northing1,
-                             marker = "o",
-                             color = "orange",
-                             label = "Survey 1")
-                ax11.scatter(actual_easting2, actual_northing2,
-                             marker = "o",
-                             color = "purple",
-                             label = "Survey 2")
+                             label = "Planned")
+                ax11.scatter(average_easting, average_northing,
+                             marker="o",
+                             color="orange",
+                             label="Actual ")
+                # ax11.scatter(actual_easting1, actual_northing1,
+                #              marker = "o",
+                #              color = "orange",
+                #              label = "Survey 1")
+                # ax11.scatter(actual_easting2, actual_northing2,
+                #              marker = "o",
+                #              color = "purple",
+                #              label = "Survey 2")
 
-                ax11.get_yaxis().get_major_formatter().set_useOffset(False)
-                ax11.get_xaxis().get_major_formatter().set_useOffset(False)
+                #ax11.get_yaxis().get_major_formatter().set_useOffset(False)
+                #ax11.get_xaxis().get_major_formatter().set_useOffset(False)
 
-                ax11.set_xlabel("Easting", size = 14, labelpad=0)
-                ax11.set_ylabel("Northing", size = 14, labelpad=0)
-                ax11.set_title("Distance From Target", size=15, pad = 28)
-                #ax11.legend(loc = "best", markerscale  = 0.5)
+                ax11.set_xlabel("Northing", size=14, labelpad=147)
+                ax11.set_ylabel("Easting", size=14, labelpad=165)
+                ax11.set_title("Distance From Target", size=15, pad=28)
+                # ax11.legend(loc = "best", markerscale  = 0.5)
 
                 #Legend
                 box = ax11.get_position()
@@ -356,21 +377,25 @@ try:
                 ax11.legend(loc='upper center', bbox_to_anchor=(0.5, 1.09),
                             fancybox=True, shadow=False, ncol=5)
 
-                #ax11.spines['left'].set_position(('data', target_easting))
-                #ax11.spines['bottom'].set_position(('data', target_northing))
+                ax11.spines['left'].set_position(('data', target_easting))
+                ax11.spines['bottom'].set_position(('data', target_northing))
 
                 ax11.tick_params(axis='both', which='major', pad=0)
                 plt.xticks(rotation=40)
                 plt.yticks(rotation=40)
-                ax11.grid(True)
+                #ax11.grid(True)
 
                 ax11.xaxis.set_ticks_position('bottom')
                 ax11.yaxis.set_ticks_position('left')
                 ax11.spines['right'].set_color('none')
                 ax11.spines['top'].set_color('none')
 
-                #plt.xlim(target_easting-49, target_easting+45)
-                #plt.ylim(target_northing-49, target_northing+49)
+                ax11.set_yticklabels([])
+                ax11.set_xticklabels([])
+
+                plt.xlim(target_easting-100, target_easting+100)
+                plt.ylim(target_northing-100, target_northing+100)
+                ax11.text(actual_easting2, actual_northing2 + 3, str(round(tot_misc_to_targ_avg, 2)),horizontalalignment='center')
 
                 # Target Deviation Plot - 3D
 
@@ -383,12 +408,14 @@ try:
                 fig12 = plt.figure(figsize=(7.5, 7.5))
                 ax12 = plt.axes(projection='3d')
 
-                ax12.scatter3D(xdata_in, ydata_in, zdata_in, c="orange")
-                ax12.plot(xdata_in, ydata_in, zdata_in, c="orange", label="Survey 1")
-                ax12.scatter3D(xdata_out, ydata_out, zdata_out, c="purple")
-                ax12.plot(xdata_out, ydata_out, zdata_out, c="purple", label ="Survey 2")
+                # ax12.scatter3D(xdata_in, ydata_in, zdata_in, c="orange")
+                # ax12.plot(xdata_in, ydata_in, zdata_in, c="orange", label="Survey 1")
+                # ax12.scatter3D(xdata_out, ydata_out, zdata_out, c="purple")
+                # ax12.plot(xdata_out, ydata_out, zdata_out, c="purple", label ="Survey 2")
                 ax12.scatter3D(xdata_plan, ydata_plan, zdata_plan, c="grey")
                 ax12.plot(xdata_plan, ydata_plan, zdata_plan, c="grey", label ="Planned")
+                ax12.scatter3D(xdata_avg, ydata_avg, zdata_avg, c="orange")
+                ax12.plot(xdata_avg, ydata_avg, zdata_avg, c="orange", label="Actual")
                 plt.legend(loc="best")
 
                 x_ticks = np.linspace(xdata_in.min(), xdata_in.max(), 5)
@@ -751,15 +778,26 @@ try:
 
                 #Generating PDF Report (Drilling QC)
 
-                planned_actual_t = [[bh_id, "Planned", "Actual"], ["Dip", collar_dip, round(survey_out["Dip"].iloc[-1])],
-                                    ["Azimuth", collar_azimuth, round(survey_out["Azimuth"].iloc[-1])]]
+                actual_dip = round((survey_in["Dip"].iloc[-1] + survey_out["Dip"].iloc[-1]) / 2, 1)
+                actual_azimuth = round((survey_in["Azimuth"].iloc[-1] + survey_out["Azimuth"].iloc[-1]) / 2, 1)
 
-                misc_to_target_t = [["Survey Name", "Survey 1", "Survey 2"],
-                                    ["Easting Difference (m)", round(targ_east_differ1, 2), round(targ_east_differ2, 2)],
-                                   ["Northing Difference (m)", round(targ_nort_differ1, 2), round(targ_nort_differ2, 2)],
-                                   ["Elevation Difference (m)",round(targ_elev_differ1, 2), round(targ_elev_differ2, 2)],
-                                   ["Total Misclosure (m)", round(tot_misc_to_targ1, 2), round(tot_misc_to_targ2, 2)],
-                                   ["Percentage Misclosure %", round(tot_misc_to_targ1_perc, 2), round(tot_misc_to_targ2_perc, 2)]]
+                planned_actual_t = [[bh_id, "Planned", "Actual"], ["Dip", collar_dip, actual_dip],
+                                    ["Azimuth", collar_azimuth, actual_azimuth]]
+
+                misc_to_target_t = [["Survey Name", "Survey 1", "Survey 2", "Average"],
+                                    ["Easting Difference (m)", round(targ_east_differ1, 2), round(targ_east_differ2, 2),
+                                     round((targ_east_differ1 + targ_east_differ2) / 2, 2)],
+                                    ["Northing Difference (m)", round(targ_nort_differ1, 2),
+                                     round(targ_nort_differ2, 2),
+                                     round((targ_nort_differ1 + targ_nort_differ2) / 2, 2)],
+                                    ["Elevation Difference (m)", round(targ_elev_differ1, 2),
+                                     round(targ_elev_differ2, 2),
+                                     round((targ_elev_differ1 + targ_elev_differ2) / 2, 2)],
+                                    ["Total Misclosure (m)", round(tot_misc_to_targ1, 2), round(tot_misc_to_targ2, 2),
+                                     round((tot_misc_to_targ1 + tot_misc_to_targ2) / 2, 2)],
+                                    ["Percentage Misclosure %", round(tot_misc_to_targ1_perc, 2),
+                                     round(tot_misc_to_targ2_perc, 2),
+                                     round((tot_misc_to_targ1_perc + tot_misc_to_targ2_perc) / 2, 2)]]
 
 
 
