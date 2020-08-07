@@ -1,5 +1,6 @@
- ![](Screenshots/ReportINC GUI.png)
+
 # ReportINC
+ ![](Screenshots/ReportINC GUI.png)
 Generating PDF QC reports based on the survey data of REFLEX GYRO Inclinometer. 
 
 # 1. Why is it so important?
