@@ -1,5 +1,4 @@
 ![](logo/reportinc-intro.png)
-![](logo/ReportINC_GUI.png)
 
 Generating PDF QC reports based on the survey data of REFLEX GYRO Inclinometer. 
 
@@ -19,6 +18,8 @@ It demonstrates the quality of the survey based on IN and OUT surveys.
 2. Drilling report.
 
 It shows the deviation of the borehole from its planned path. 
+
+![](logo/ReportINC_GUI.png)
 
 # 3. Which technologies have been used?
 
