@@ -1,4 +1,5 @@
 ![](logo/reportinc-intro.png)
+![](logo/ReportINC_GUI.png)
 
 Generating PDF QC reports based on the survey data of REFLEX GYRO Inclinometer. 
 
